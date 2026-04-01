@@ -3,8 +3,6 @@
 #include <time.h>
 #include <stdbool.h>
 
-
-
 int main(void){
    
    
@@ -62,14 +60,7 @@ int main(void){
          printf("It's high. try a lower number.\n");
       }
       }
-   
-
-
-   
-      
-      
-
-
+         
    } while (play_or_not == 'y' || play_or_not == 'Y') ;
       
    return 0 ;
