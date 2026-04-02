@@ -1,5 +1,4 @@
 # Simple-number-guessing-game-in-C
-Number Guessing Game 🎯
 A simple number guessing game built in C. The program generates a random number and challenges the player to guess it with hints after each attempt.
 Features
 
